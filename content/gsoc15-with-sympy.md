@@ -5,11 +5,15 @@ Tags: python, sympy, gsoc
 Slug: gsoc15-with-sympy
 Author: Sudhanshu Mishra
 
-<p align="left">
-<img src="{filename}/images/sympy.png" />
+<p align="center">
+<img src="{filename}/images/gsoc15.png" />
 </p>
 
 Once again I got accepted into Google Summer of Code! I'll be working on assumptions system of SymPy. This time, SymPy is participating under Python Software Foundation.
+
+<p align="center">
+<img src="{filename}/images/sympy.png" />
+</p>
 
 *SymPy is a Python library for symbolic mathematics. It aims to become a full-featured [Computer Algebra System](https://en.wikipedia.org/wiki/Computer_algebra_system) while keeping the code as simple as possible in order to be comprehensible and easily extensible.*
 

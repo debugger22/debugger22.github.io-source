@@ -49,11 +49,27 @@ SOCIAL = (('GitHub', 'https://github.com/debugger22'),
 
 DEFAULT_PAGINATION = 10
 
-
-PLUGINS = ['render_math']
+PLUGIN_PATH = 'pelican-plugins'
+PLUGINS = ['render_math', 'sitemap']
 STATIC_PATHS = ['images']
 
+# Plugin configurations
+
+# render_math
 MATH_JAX = {'color':'black','align':'center'}
 
-# Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+
+# sitemap
+SITEMAP = {
+    'format': 'xml',
+    'priorities': {
+        'articles': 1.0,
+        'indexes': 0.5,
+        'pages': 0.5
+    },
+    'changefreqs': {
+        'articles': 'daily',
+        'indexes': 'daily',
+        'pages': 'daily'
+    }
+}
