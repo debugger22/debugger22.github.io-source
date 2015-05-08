@@ -45,6 +45,7 @@ LINKS =  (('Old Blog', 'http://blog.sudhanshumishra.in'),
 # Social widget
 SOCIAL = (('GitHub', 'https://github.com/debugger22'),
           ('Twitter', 'https://twitter.com/debugger22'),
+          ('Flickr', 'https://www.flickr.com/photos/132975952@N07/'),
           ('Last.fm', 'http://www.last.fm/user/debugger22'),)
 
 DEFAULT_PAGINATION = 10
