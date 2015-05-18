@@ -15,6 +15,6 @@ I am not available to hire at the moment.
 
 My old blog is located [here](http://blog.sudhanshumishra.in/).
 
-My stack**overflow** profile:
+My stack**overflow** [profile](https://stackoverflow.com/users/2083053/sudhanshu-mishra):
 
 ![so](https://stackoverflow.com/users/flair/2083053.png?theme=clean)
